@@ -1,6 +1,9 @@
-# Install ComfyUI in Isolated Environment in Windows 11
+# Install ComfyUI in Isolated Python venv in Windows 11
 
 <owner fpliu>
+
+## What's this?
+This is a script for installing ComfyUI in a python venv in windows 11. You can create a folder and run `install.bat` to have a fast installation. Uninstallation cleanly is simply removing the folder.
 
 ## Prerequisites:
 
