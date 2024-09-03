@@ -3,11 +3,17 @@
 <owner fpliu>
 
 ## What's this?
-This is a script for installing ComfyUI in a python venv in windows 11. You can create a folder and run `install.bat` to have a fast installation. Uninstallation cleanly is simply removing the folder.
+This is a script for installing ComfyUI in a python venv in Windows 11. So this will not mess up with your other environment.  Uninstallation cleanly is simply removing the ComfyUI folder.
 
-## Prerequisites:
+## How to use this tool
+Download this code zip or simply `git clone` this repo. Then follow the instruction below. 
+
+If you already have python and git installed. You can directly put `install.bat` into the directory you wish to have your ComfyUI. Then run `install.bat` (just double click)
+
 
 > **_NOTE:_** You need to use Windows for this installation instruction.
+
+## Prerequisites:
 
 1. Install Python
 
