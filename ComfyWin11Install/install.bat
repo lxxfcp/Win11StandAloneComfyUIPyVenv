@@ -17,7 +17,7 @@ git clone https://github.com/ltdrdata/ComfyUI-Manager
 cd ..
 
 echo ">>>>>>>> Making venv..."
-python3 -m venv .venv --prompt "ComfyUI"
+python -m venv .venv --prompt "ComfyUI"
 call .venv/Scripts/activate
 
 echo ">>>>>>>> We have the following environment as base, press any key to start installing dependencies..."
